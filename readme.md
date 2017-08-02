@@ -20,9 +20,21 @@ Largest artwork required are `7632 * 6480` (~50 megapixels), which is Duvets & W
 
 If you design in a vector software using `1000 * 1000`, when export to `PNG`, upscale 8 times. `2000 * 2000` upscale 4 times.
 
-## Download
+## Template Download
+
+![Imgur Image](http://i.imgur.com/0XQNSyA.png)
 
 Visit the [release page](https://github.com/kentliau/redbubble-template/releases) or download the [zip](https://github.com/kentliau/redbubble-template/releases/download/1.0/redbubble-template-v1.0.zip).
+
+## How to use
+
+- Green: Main printing zone, you should focus your design around here.
+- Red: Bleeding printing zone, your artwork should cover up to this zone, but it should be non crucial as it will be cut off cause by different in size of the same products or small printing offset
+- Blue: Rectangular boundary, your artwork should cover up to this point as well, similar to bleeding zone, this zone serve two purpose, one is to give a rectangular constrainst/proportion, second is to compensate the offset cause by printer.
+
+For template without printing zone or bleeding zone specified, it means it is rectangular printing zone, you should avoid design around the edge.
+
+For products like Phone cases/wallet (iPhone and Samsung Galaxy) and iPad cases, avoid design around the cut out for camera, speaker, port, button.
 
 ## Special Notes
 
@@ -40,7 +52,7 @@ Visit the [release page](https://github.com/kentliau/redbubble-template/releases
   - Large Poster require `5000 * 7100`
 - **Art Board (Gallery Board)**
   - Semi-Adaptive, Predefined Ratio (1, 1.25, 1.4, 1.5)
-  - Swap width and height to switch between potrait and landscape
+  - Swap width and height to switch between portrait and landscape
 
 ## Author Information
 - Twitter <[@kentliau](https://twitter.com/kentliau)>
