@@ -1,5 +1,7 @@
 # Redbubble Template
 
+A Better Redbubble Template.
+
 The dimensions below are recommended by Redbubble, most if not all are 100% coverage to the products without any scaling down or up.
 
 | *                                                      | *                                              | *                                          |
@@ -18,7 +20,7 @@ Largest artwork required are `7632 * 6480` (~50 megapixels), which is Duvets & W
 
 If you design in a vector software using `1000 * 1000`, when export to `PNG`, upscale 8 times. `2000 * 2000` upscale 4 times.
 
-### Special Notes
+## Special Notes
 
 - **Stickers**
   - Orientation doesn't matter
@@ -36,15 +38,12 @@ If you design in a vector software using `1000 * 1000`, when export to `PNG`, up
   - Semi-Adaptive, Predefined Ratio (1, 1.25, 1.4, 1.5)
   - Swap width and height to switch between potrait and landscape
 
-### Author Information
+## Author Information
 - Twitter <[@kentliau](https://twitter.com/kentliau)>
 - Redbubble <[kentliau.redbubble.com](https://kentliau.redbubble.com)>
 - Donation
   - [![Donate](https://img.shields.io/badge/Donate%202⁶¢-Paypal-blue.svg)](https://www.paypal.me/kentliau/0.64) [![Donate](https://img.shields.io/badge/Donate%202⁷¢-Paypal-blue.svg)](https://www.paypal.me/kentliau/1.28) [![Donate](https://img.shields.io/badge/Donate%202⁸¢-Paypal-blue.svg)](https://www.paypal.me/kentliau/2.56) [![Donate](https://img.shields.io/badge/Donate%202⁹¢-Paypal-blue.svg)](https://www.paypal.me/kentliau/5.12)
 
-### LICENSE
+## LICENSE
 
 Read `LICENSE.md`
-
-
-
