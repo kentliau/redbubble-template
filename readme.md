@@ -2,7 +2,7 @@
 
 A Better Redbubble Template.
 
-The dimensions below are recommended by Redbubble, most if not all are 100% coverage to the products without any scaling down or up.
+The dimensions below are recommended by Redbubble, most if not all are 100% coverage to the products without any scaling down or up, in other words all the artwork will auto fit to the product without you changing the scaling.
 
 | *                                                      | *                                              | *                                          |
 | :----------------------------------------------------: | :--------------------------------------------: | :----------------------------------------: |
