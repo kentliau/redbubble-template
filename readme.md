@@ -20,6 +20,10 @@ Largest artwork required are `7632 * 6480` (~50 megapixels), which is Duvets & W
 
 If you design in a vector software using `1000 * 1000`, when export to `PNG`, upscale 8 times. `2000 * 2000` upscale 4 times.
 
+## Download
+
+Visit the [release page](https://github.com/kentliau/redbubble-template/releases) or download the [zip](https://github.com/kentliau/redbubble-template/releases/download/1.0/redbubble-template-v1.0.zip).
+
 ## Special Notes
 
 - **Stickers**
