@@ -16,7 +16,7 @@ The dimensions below are recommended by Redbubble, most if not all are 100% cove
 | **Spiral Notebooks** <br> `1756 * 2481`                | **Hardcover Journals** <br> `3502 * 2385`      | **Clock** <br> `2940 * 2940`               |
 | **Art Board (Gallery Board)** <br> `4260 * 4260`       | **Acrylic Block** <br> `1860 * 1860`           | **Wall Tapestry** <br> `7632 * 6480`       |
 
-Largest artwork required are `7632 * 6480` (~50 megapixels), which is Duvets & Wall Tapestry. Therefore, a `8000 * 8000` (64 megapixels) creation is sufficient to cover all the products.
+Largest artwork required are `7632 * 6480` (~50 megapixels), which are Duvets & Wall Tapestry. Therefore, a `8000 * 8000` (64 megapixels) creation is sufficient to cover all the products.
 
 If you design in a vector software using `1000 * 1000`, when export to `PNG`, upscale 8 times. `2000 * 2000` upscale 4 times.
 
@@ -28,9 +28,14 @@ Visit the [release page](https://github.com/kentliau/redbubble-template/releases
 
 ## How to use
 
-- Green: Main printing zone, you should focus your design around here.
-- Red: Bleeding printing zone, your artwork should cover up to this zone, but it should be non crucial as it will be cut off cause by different in size of the same products or small printing offset
-- Blue: Rectangular boundary, your artwork should cover up to this point as well, similar to bleeding zone, this zone serve two purpose, one is to give a rectangular constrainst/proportion, second is to compensate the offset cause by printer.
+Two ways of using the template
+1. You open the template image in your favorite software and using it as a size and proportion guide.
+2. You already have a artwork in arbitrary size (like from your camera), you then layer the template image on top of your artwork as a size and proportion guide. You then scale, crop or patch your artwork accordingly.
+
+What the colors mean
+- **Green**: Main printing zone, you should focus your design around here.
+- **Red**: Bleeding printing zone, your artwork should cover up to this zone, but it should be non crucial as it will be cut off cause by different in size of the same products or small printing offset
+- **Blue**: Rectangular boundary, your artwork should cover up to this point as well, similar to bleeding zone, this zone serve two purpose, one is to give a rectangular constrainst/proportion, second is to compensate the offset cause by printer.
 
 For template without printing zone or bleeding zone specified, it means it is rectangular printing zone, you should avoid design around the edge.
 
