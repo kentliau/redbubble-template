@@ -29,8 +29,8 @@ Visit the [release page](https://github.com/kentliau/redbubble-template/releases
 ## How to use
 
 Two ways of using the template
-1. You open the template image in your favorite software and using it as a size and proportion guide.
-2. You already have a artwork in arbitrary size (like from your camera), you then layer the template image on top of your artwork as a size and proportion guide. You then scale, crop or patch your artwork accordingly.
+1. You open the template image in your favorite software and using it as a canvas, size and proportion guide.
+2. You already have a artwork in arbitrary size (like from your camera), you then layer the template image on top of your artwork as a canvas, size and proportion guide. You then scale, crop or patch your artwork accordingly.
 
 What the colors mean
 - **Green**: Main printing zone, you should focus your design around here.
@@ -54,7 +54,7 @@ For products like Phone cases/wallet (iPhone and Samsung Galaxy) and iPad cases,
 - **Prints, Cards & Posters**
   - Adaptive ratio for poster
   - Other will fit into printable zone
-  - Large Poster require `5000 * 7100`
+  - `5000 * 7100` is largest poster
 - **Art Board (Gallery Board)**
   - Semi-Adaptive, Predefined Ratio (1, 1.25, 1.4, 1.5)
   - Swap width and height to switch between portrait and landscape
