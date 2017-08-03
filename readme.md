@@ -57,6 +57,7 @@ For products like Phone cases/wallet (iPhone and Samsung Galaxy) and iPad cases,
   - `5000 * 7100` is largest poster
 - **Art Board (Gallery Board)**
   - Semi-Adaptive, Predefined Ratio (1, 1.25, 1.4, 1.5)
+  - 4260 is the largest size for one side, if you need a square output then use another 4260 for other side, else use a smaller value for different predefined ratio.
   - Swap width and height to switch between portrait and landscape
 
 ## Author Information
@@ -67,4 +68,4 @@ For products like Phone cases/wallet (iPhone and Samsung Galaxy) and iPad cases,
 
 ## LICENSE
 
-Read `LICENSE.md`
+[Creative Commons Attribution 4.0](https://github.com/kentliau/redbubble-template/blob/gh-pages/LICENSE.md)
