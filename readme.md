@@ -8,17 +8,18 @@ In other words, all the artwork will auto fit to the product without you changin
 
 If your artwork is double the size of the size specified below, then you should set the scaling to 50% at the "Add New Work" page in Redbubble.
 
-| *                                                      | *                                              | *                                          |
-| :----------------------------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-| **Standard Print Clothing** <br> `2400 * 3200`         | **Large Print Clothing** <br> `2875 * 3900`    | **Contrast Tanks** <br> `3870 * 4280`      |
-| **Women's Chiffon Tops** <br> `3711 * 3814`            | **Graphic T-Shirt Dress** <br> `4020 * 6090`   | **Graphic T-Shirts** <br> `3873 * 4814`    |
-| **A-Line Dress** <br> `6310 * 6230`                    | **Stickers** <br> `2800 * 2800`                | **Phone Cases & Skins** <br> `1187 * 1852` |
-| **Phone Wallets** <br> `2087 * 1956`                   | **Prints, Cards & Posters** <br> `5000 * 7100` | **Pillows & Totes** <br> `3225 * 3225`     |
-| **Pouches, Laptop Skins & Sleeves** <br> `4600 * 3000` | **Duvets** <br> `7632 * 6480`                  | **Mugs** <br> `2700 * 1624`                |
-| **Travel Mugs** <br> `2376 * 2024`                     | **Leggings** <br> `4350 * 4032`                | **Mini Skirts** <br> `2152 * 2502`         |
-| **Scarves** <br> `5748 * 5748`                         | **Tablet Cases & Skins** <br> `2696 * 3305`    | **Drawstring Bags** <br> `2475 * 2775`     |
-| **Spiral Notebooks** <br> `1756 * 2481`                | **Hardcover Journals** <br> `3502 * 2385`      | **Clock** <br> `2940 * 2940`               |
-| **Art Board (Gallery Board)** <br> `4260 * 4260`       | **Acrylic Block** <br> `1860 * 1860`           | **Wall Tapestry** <br> `7632 * 6480`       |
+| *                                                      | *                                                      | *                                           |
+| :----------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------: |
+| **Standard Print Clothing** <br> `2400 * 3200`         | **Large Print Clothing** <br> `2875 * 3900`            | **Contrast Tanks** <br> `3870 * 4280`       |
+| **Women's Chiffon Tops** <br> `3711 * 3814`            | **Graphic T-Shirt Dress** <br> `4020 * 6090`           | **Graphic T-Shirts** <br> `3873 * 4814`     |
+| **A-Line Dress** <br> `6310 * 6230`                    | **Stickers** <br> `2800 * 2800`                        | **Phone Cases & Skins** <br> `1187 * 1852`  |
+| **Phone Wallets** <br> `2087 * 1956`                   | **Pillows & Totes** <br> `3225 * 3225`                 | **Floor Pillows** <br> `4625 * 4625`        |
+| **Prints, Cards & Posters** <br> `5000 * 7100`         | **Pouches, Laptop Skins & Sleeves** <br> `4600 * 3000` | **Duvets** <br> `7632 * 6480`               |
+| **Mugs** <br> `2700 * 1624`                            | **Travel Mugs** <br> `2376 * 2024`                     | **Leggings** <br> `4350 * 4032`             |
+| **Mini Skirts** <br> `2152 * 2502`                     | **Scarves** <br> `5748 * 5748`                         | **Tablet Cases & Skins** <br> `2696 * 3305` |
+| **Drawstring Bags** <br> `2475 * 2775`                 | **Spiral Notebooks** <br> `1756 * 2481`                | **Hardcover Journals** <br> `3502 * 2385`   |
+| **Clock** <br> `2940 * 2940`                           | **Art Board (Gallery Board)** <br> `4260 * 4260`       | **Acrylic Block** <br> `1860 * 1860`        |
+| **Wall Tapestry** <br> `7632 * 6480`                   |                                                        |                                             |
 
 Largest artwork required are `7632 * 6480` (~50 megapixels), which are Duvets & Wall Tapestry.
 Therefore, a `8000 * 8000` (64 megapixels) creation is sufficient to cover all the products.
