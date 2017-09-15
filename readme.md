@@ -30,7 +30,7 @@ If you design in a vector software using `1000 * 1000`, when export to `PNG`, up
 
 ![Imgur Image](http://i.imgur.com/0XQNSyA.png)
 
-Visit the [release page](https://github.com/kentliau/redbubble-template/releases) or download the [zip](https://github.com/kentliau/redbubble-template/releases/download/1.0/redbubble-template-v1.0.zip).
+Clone the repository
 
 ## How to use
 
